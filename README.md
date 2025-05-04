@@ -1,15 +1,15 @@
 <h1>Hi 👋, I'm Mallikarjun Reddy 🏄‍♂️ </h1>
-<h3>A passionate Data Science enthusiast, Actively looking for a summer 2024 internship.</h3>
+<h3>A passionate Data Science & Engineering enthusiast, Actively looking for a Full Time work.</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=mallireddy09&label=Profile%20views&color=0e75b6&style=flat" alt="mallireddy09" /> </p>
 
 🌱 I’m currently learning **Masters in Data Science**
 
- 👨‍💻 All of my projects are available at [https://mallireddy09.vercel.app/](https://mallireddy09.vercel.app/)
+ 👨‍💻 All of my projects are available at [https://mallireddy09.vercel.app/](--)
 
  📫 How to reach me **mallikarjun0912@gmail.com**
 
- 📄 Know about my experiences [https://drive.google.com/file/d/12ZFck3g7RHsr5-GPHRumRgx6dFVeWEvt/view?usp=sharing](https://drive.google.com/file/d/12ZFck3g7RHsr5-GPHRumRgx6dFVeWEvt/view?usp=sharing)
+ 📄 Know about my experiences [https://drive.google.com/file/d/12ZFck3g7RHsr5-GPHRumRgx6dFVeWEvt/view?usp=sharing](--)
 
 <h3 align="left"> 🧰 Languages and Tools</h3>
 
