@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mallireddy09/static/css/main.1beb5d1e.css",
-    "main.js": "/mallireddy09/static/js/main.771cad27.js",
+    "main.js": "/mallireddy09/static/js/main.a58b9912.js",
     "static/media/aws_ml.png": "/mallireddy09/static/media/aws_ml.bdb0417c48cfc78a4407.png",
     "static/media/cousera_dbms.png": "/mallireddy09/static/media/cousera_dbms.f43110b1e764db5386eb.png",
     "static/media/coursera_web_development.png": "/mallireddy09/static/media/coursera_web_development.850c35883ba1b602f081.png",
@@ -23,6 +23,7 @@
     "static/media/google_ada.png": "/mallireddy09/static/media/google_ada.e036926cbb1ae125b8b6.png",
     "static/media/linkedIn_git_github.png": "/mallireddy09/static/media/linkedIn_git_github.acc4816e4b80a2433bfd.png",
     "static/media/nvidia.png": "/mallireddy09/static/media/nvidia.081010f5ec32097c82be.png",
+    "static/media/arjun_image.jpg": "/mallireddy09/static/media/arjun_image.8b1a457c906700ac80d5.jpg",
     "static/media/homedepot.png": "/mallireddy09/static/media/homedepot.a74826d45ba76ccdfe29.png",
     "static/media/buffalo.png": "/mallireddy09/static/media/buffalo.f6b3cb45c5c5f948e3cf.png",
     "static/media/nineleaps.png": "/mallireddy09/static/media/nineleaps.7f9d8374b9a2d1a96657.png",
@@ -47,10 +48,10 @@
     "static/media/project.svg": "/mallireddy09/static/media/project.866558a0e5e9eb1f2d06586431243e3d.svg",
     "static/media/microsoft.svg": "/mallireddy09/static/media/microsoft.ce2eb30e6c62028d69790ca1c8d2b12b.svg",
     "main.1beb5d1e.css.map": "/mallireddy09/static/css/main.1beb5d1e.css.map",
-    "main.771cad27.js.map": "/mallireddy09/static/js/main.771cad27.js.map"
+    "main.a58b9912.js.map": "/mallireddy09/static/js/main.a58b9912.js.map"
   },
   "entrypoints": [
     "static/css/main.1beb5d1e.css",
-    "static/js/main.771cad27.js"
+    "static/js/main.a58b9912.js"
   ]
 }
